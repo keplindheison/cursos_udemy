@@ -10,10 +10,10 @@ Link do Curso: https://www.udemy.com/course/curso-algoritmos-logica-de-programac
 <div style="display: inline_block"><br>
   
  
-  <img align="center" alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <!--<img align="center" alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="c++" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="c#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="c#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> -->
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
 </div>
@@ -54,7 +54,7 @@ Link do Curso: https://www.udemy.com/course/python-3-do-zero-ao-avancado/
 ## Conteúdo do curso
 
   ### 1 - Introdução - Preparando meu ambiente de desenvolvimento
-- Linux (Ubuntu): Criando meu ambiente de desenvolvimento :x:
+- Linux (Ubuntu): Criando meu ambiente de desenvolvimento ✔️
 - Windows: Criando meu ambiente de desenvolvimento ✔️
 - Entenda como o curso está estruturado ✔️
 - Dicas sobre o pycharm e o curso ✔️
