@@ -59,15 +59,15 @@ Link do Curso: https://www.udemy.com/course/python-3-do-zero-ao-avancado/
 - Entenda como o curso está estruturado ✔️
 - Dicas sobre o pycharm e o curso ✔️
 - Windows - Não quero/posso usar o Pycharm ✔️
-- Linux/Mac - Não quero/posso usar o Pycharm :x:
+- Linux/Mac - Não quero/posso usar o Pycharm ✔️
 - Perguntas e Respostas - Como funciona? ✔️
 
   ### 2 - Python Básico(Lógica de programação)
-- Avisos e dicas do curso :x:
-- Comentários de código em Python :x:
-- O comando print :x:
-- Strings (texto) e aspas em Python :x:
-- Tipos de dados "primitivos" :x:
+- Avisos e dicas do curso ✔️
+- Comentários de código em Python ✔️
+- O comando print ✔️
+- Strings (texto) e aspas em Python ✔️
+- Tipos de dados "primitivos" ✔️
 - Operadores Aritméticos :x:
 - Variáveis :x:
 - Solução do exercício com variáveis :x:
