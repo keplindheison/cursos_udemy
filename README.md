@@ -68,24 +68,24 @@ Link do Curso: https://www.udemy.com/course/python-3-do-zero-ao-avancado/
 - O comando print ✔️
 - Strings (texto) e aspas em Python ✔️
 - Tipos de dados "primitivos" ✔️
-- Operadores Aritméticos :x:
-- Variáveis :x:
-- Solução do exercício com variáveis :x:
-- Introdução à formatação de Strings :x:
-- Desafio prático(teste seu conhecimento até aqui) :x:
-- Desafio prático - Solução :x:
-- Input: Entrada de dados do usuário :x:
-- IF, ELIF e ELSE + Booleans :x:
-- Operadores relacionais + IF/ELIF/ELSE :x:
-- Operadores lógicos + IF/ELIF/ELSE :x:
-- len - Quantidade de caracteres :x:
-- Documentação e funções built-in úteis :x:
-- Pass e Ellipsis como placeholders :x:
-- Exercícios propostos :x:
-- Exercícios propostos - Solução :x:
-- Formatando valores em Python :x:
-- Índices e fatiamento de strings em Python :x:
-- While - estrutura de repetição em Python :x:
+- Operadores Aritméticos ✔️
+- Variáveis ✔️
+- Solução do exercício com variáveis ✔️
+- Introdução à formatação de Strings ✔️
+- Desafio prático(teste seu conhecimento até aqui) ✔️
+- Desafio prático - Solução ✔️
+- Input: Entrada de dados do usuário ✔️
+- IF, ELIF e ELSE + Booleans ✔️
+- Operadores relacionais + IF/ELIF/ELSE ✔️
+- Operadores lógicos + IF/ELIF/ELSE ✔️
+- len - Quantidade de caracteres ✔️
+- Documentação e funções built-in úteis ✔️
+- Pass e Ellipsis como placeholders ✔️
+- Exercícios propostos ✔️
+- Exercícios propostos - Solução ✔️
+- Formatando valores em Python ✔️
+- Índices e fatiamento de strings em Python ✔️
+- While - estrutura de repetição em Python ✔️
 - While/Else - Repetição com acumuladores em Python :x:
 - Iterando strings com while em Python :x:
 - For in - Estrutura de repetição em Python :x:
