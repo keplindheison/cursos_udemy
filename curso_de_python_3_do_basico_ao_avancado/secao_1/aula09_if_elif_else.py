@@ -27,7 +27,7 @@ else:
 # Operadores Relacionais
 # ==, >, >=, <, <=, !=
 
-'''from re import A
+'''
 
 
 nome = input('Qual o seu nome? ')

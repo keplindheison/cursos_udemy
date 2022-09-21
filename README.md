@@ -86,23 +86,23 @@ Link do Curso: https://www.udemy.com/course/python-3-do-zero-ao-avancado/
 - Formatando valores em Python ✔️
 - Índices e fatiamento de strings em Python ✔️
 - While - estrutura de repetição em Python ✔️
-- While/Else - Repetição com acumuladores em Python :x:
-- Iterando strings com while em Python :x:
-- For in - Estrutura de repetição em Python :x:
-- Listas em Python :x:
-- Tira dúvidas: for, listas, condições e concatenações :x:
-- FOR / ELSE em Python :x:
-- Split, Join e Enumerate em Pytho :x:
-- Enumerate - Tira dúvidas :x:
-- Desempacotamento de listas em Python :x:
-- Trocando o valor entre variáveis em Python :x:
-- Operação ternária em Python :x:
-- Expressão condicional com operador OR :x:
-- Desafio de contadores :x:
-- Desafio de contadores - SOLUÇÃO :x:
-- Desafio - Valide um CPF :x:
-- Desafio - Valide um CPF - SOLUÇÃO :x:
-- Gerando CPFs com Python:x:
+- While/Else - Repetição com acumuladores em Python ✔️
+- Iterando strings com while em Python ✔️
+- For in - Estrutura de repetição em Python ✔️
+- Listas em Python ✔️
+- Tira dúvidas: for, listas, condições e concatenações ✔️
+- FOR / ELSE em Python ✔️
+- Split, Join e Enumerate em Pytho ✔️
+- Enumerate - Tira dúvidas ✔️
+- Desempacotamento de listas em Python ✔️
+- Trocando o valor entre variáveis em Python ✔️
+- Operação ternária em Python ✔️
+- Expressão condicional com operador OR ✔️
+- Desafio de contadores ✔️
+- Desafio de contadores - SOLUÇÃO ✔️
+- Desafio - Valide um CPF ✔️
+- Desafio - Valide um CPF - SOLUÇÃO ✔️
+- Gerando CPFs com Python:✔️
 
   ### 3 - 
 - :x:
