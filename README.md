@@ -116,7 +116,7 @@ Link do Curso: https://www.udemy.com/course/python-3-do-zero-ao-avancado/
 - Expressões lambda (funções anônimas) em Python ✔️
 - Tuplas em Python ✔️
 - Dicionários em Python ✔️
-- Sistema de perguntas e respostas com dicionários em Python :x:
+- Sistema de perguntas e respostas com dicionários em Python ✔️
 - Sets em Python (Conjuntos) :x:
 - Exercício :x:
 - List Comprehension em Python :x:
