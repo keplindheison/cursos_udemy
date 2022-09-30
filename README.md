@@ -117,7 +117,7 @@ Link do Curso: https://www.udemy.com/course/python-3-do-zero-ao-avancado/
 - Tuplas em Python ✔️
 - Dicionários em Python ✔️
 - Sistema de perguntas e respostas com dicionários em Python ✔️
-- Sets em Python (Conjuntos) :x:
+- Sets em Python (Conjuntos) ✔️
 - Exercício :x:
 - List Comprehension em Python :x:
 - Extra - mais detalhes sobre List Comprehension em Python :x:
