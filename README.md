@@ -118,11 +118,11 @@ Link do Curso: https://www.udemy.com/course/python-3-do-zero-ao-avancado/
 - Dicionários em Python ✔️
 - Sistema de perguntas e respostas com dicionários em Python ✔️
 - Sets em Python (Conjuntos) ✔️
-- Exercício :x:
-- List Comprehension em Python :x:
-- Extra - mais detalhes sobre List Comprehension em Python :x:
-- Exercícios propostos :x:
-- Exercícios propostos - Solução :x:
+- Exercício ✔️
+- List Comprehension em Python ✔️
+- Extra - mais detalhes sobre List Comprehension em Python ✔️
+- Exercícios propostos ✔️
+- Exercícios propostos - Solução ✔️
 - Dictionary Comprehension em Python - (Compreensão de dicionários) :x:
 - Geradores, Iteradores e Iteráveis em Python :x:
 - Comportamento de geradores e iteradores :x:
