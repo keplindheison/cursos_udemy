@@ -249,3 +249,48 @@ Link do Curso: https://www.udemy.com/course/python-3-do-zero-ao-avancado/
 - :x:
 - :x:
 - :x:
+
+
+
+
+
+##
+## 
+
+# Curso 03 - O curso completo de Banco de Dados e SQL, sem misterios 
+
+Repositorio destinado para a pratica e execução de codigos, exercicios e projetos propostos nos cursos.
+
+Link do Curso: https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/
+
+## Tecnologias usadas
+<div style="display: inline_block"><br>
+
+  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  
+</div>
+
+ ### 1 - Versão 3.0 2020 - Visão geral e preparação
+- Sobre o curso e a didática ✔️
+- Descrição do ambiente ✔️
+- Downloads dos Softwares ✔️
+- Virtualizando ✔️
+- Criando o DB Server ✔️
+- Instalando o Windows ✔️
+- Adicionais de Convidados ✔️
+- Softwares Complementares ✔️
+- Instalando o MySQL✔️
+- Conectando-se ao Banco de Dados ✔️
+ ### 2 - Um pouco de teoria, sem esquecer a prática,
+- Arquitetura de Software ✔️
+- Modelagem Lógica e Fíica ✔️
+- Modelagem Física ✔️
+- Comparando CHAR e VARCHAR ✔️
+- Comparando ENUM e Numéricos ✔️
+
+
+
+
+
+
+
