@@ -287,6 +287,14 @@ Link do Curso: https://www.udemy.com/course/bancos-de-dados-relacionais-basico-a
 - Modelagem Física ✔️
 - Comparando CHAR e VARCHAR ✔️
 - Comparando ENUM e Numéricos ✔️
+### 3 - UElevando o nivel - Comandos que você não pode deixar de saber!
+- Tipos Nulos e Inteiros ✔️
+- Conhecendo as Projeções ✔️
+- Seleções ✔️
+### 4 - Exercicios de revisão
+- TExercicio livraria ✔️
+- Correção✔️
+
 
 
 
